@@ -1,10 +1,10 @@
 Hi 👋 My name is Delia-Ioana Ogrezeanu
 ======================================
 
-FrontEnd Developer
+Front-End Developer
 ------------------
 
-I am a third year Computer Science student at Polytechnic University of Bucharest with a passion for front-end development. I have been working with React and JavaScript for the past year, and am always looking to learn and improve my skills. On my GitHub, you'll find a selection of projects I've worked on and am proud of.
+I am a third year Computer Science student at Polytechnic University of Bucharest with a passion for front-end development. I have been working with React and JavaScript for the past year, and am always looking to learn and improve my skills. On my GitHub, you'll find a selection of projects I've worked on in order to learn.
 
 * 🌍  I'm based in Bucharest
 * ✉️  You can contact me at [delia.ogrezeanu@gmail.com](mailto:delia.ogrezeanu@gmail.com)
